@@ -1,0 +1,234 @@
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario\EsqueletoUsuario\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario_MarkupCompile.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.g.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 2\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 2\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 2\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 2\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 2\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 2\EsqueletoUsuario\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 2\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 2\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 2\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 2\EsqueletoUsuario\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 2\EsqueletoUsuario\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 2\EsqueletoUsuario\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 2\EsqueletoUsuario\obj\Debug\EsqueletoUsuario_MarkupCompile.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 2\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.g.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 2\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 2\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 3\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 3\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 3\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 3\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 3\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 3\EsqueletoUsuario\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 3\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 3\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 3\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 3\EsqueletoUsuario\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 3\EsqueletoUsuario\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 3\EsqueletoUsuario\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 3\EsqueletoUsuario\obj\Debug\EsqueletoUsuario_MarkupCompile.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 3\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.g.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 3\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 3\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 4\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 4\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 4\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 4\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 4\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 4\EsqueletoUsuario\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 4\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 4\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 4\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 4\EsqueletoUsuario\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 4\EsqueletoUsuario\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 4\EsqueletoUsuario\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 4\EsqueletoUsuario\obj\Debug\EsqueletoUsuario_MarkupCompile.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 4\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.g.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 4\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 4\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 4\EsqueletoUsuario\bin\Debug\AuxiliarKinect.dll
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 5\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 5\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 5\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 5\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 5\EsqueletoUsuario\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 5\EsqueletoUsuario\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 5\EsqueletoUsuario\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 5\EsqueletoUsuario\obj\Debug\EsqueletoUsuario_MarkupCompile.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 5\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.g.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 5\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 5\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 5\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 5\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 5\EsqueletoUsuario\bin\Debug\AuxiliarKinect.dll
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 5\EsqueletoUsuario\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 5\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 5\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\bin\Debug\AuxiliarKinect.dll
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\EsqueletoUsuario_MarkupCompile.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.g.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo6\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\bin\Debug\AuxiliarKinect.dll
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\EsqueletoUsuario_MarkupCompile.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.g.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 6\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 7\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 7\EsqueletoUsuario\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 7\EsqueletoUsuario\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 7\EsqueletoUsuario\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario_MarkupCompile.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.g.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 7\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 7\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 7\EsqueletoUsuario\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 7\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Etapa 7\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe.config
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\AuxiliarKinect.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario_MarkupCompile.cache
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.g.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Properties.Resources.resources
+C:\Users\Gabriel\Documents\GitHub\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.GenerateResource.Cache
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe.config
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.pdb
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.dll
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\AuxiliarKinect.pdb
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.xml
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\MainWindow.baml
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\MainWindow.g.cs
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\App.g.cs
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario_MarkupCompile.cache
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.g.resources
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Properties.Resources.resources
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.GenerateResource.cache
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.CopyComplete
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.exe
+C:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.pdb
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe.config
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.pdb
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.dll
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\AuxiliarKinect.pdb
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.xml
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csprojAssemblyReference.cache
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\MainWindow.baml
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\MainWindow.g.cs
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\App.g.cs
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario_MarkupCompile.cache
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.g.resources
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Properties.Resources.resources
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.GenerateResource.cache
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.CoreCompileInputs.cache
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.CopyComplete
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.exe
+D:\Users\PICHAU\source\repos\CrieAplicacoesInterativascomoMicrosoftKinect\Capitulo7\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.pdb
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe.config
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.pdb
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.dll
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.xml
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\MainWindow.baml
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\MainWindow.g.cs
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\App.g.cs
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario_MarkupCompile.cache
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.g.resources
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Properties.Resources.resources
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.GenerateResource.cache
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.CoreCompileInputs.cache
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.CopyComplete
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.exe
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.pdb
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csprojAssemblyReference.cache
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Frm_Instrucao.resources
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Frm_tronco.resources
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Frm_Postura.resources
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario - Versão 7\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Frm_Marcha.resources
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe.config
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.pdb
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.dll
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\bin\Debug\Microsoft.Kinect.xml
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csprojAssemblyReference.cache
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\MainWindow.baml
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\MainWindow.g.cs
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\App.g.cs
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario_MarkupCompile.cache
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.g.resources
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Frm_Instrucao.resources
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Frm_Marcha.resources
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Frm_Postura.resources
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Frm_tronco.resources
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.Properties.Resources.resources
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.GenerateResource.cache
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.CoreCompileInputs.cache
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.csproj.CopyComplete
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.exe
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.pdb
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.exe.manifest
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\bin\Debug\EsqueletoUsuario.application
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.exe.manifest
+D:\Users\PICHAU\source\repos\Parkinson\EsqueletoUsuario\EsqueletoUsuario\obj\Debug\EsqueletoUsuario.application
